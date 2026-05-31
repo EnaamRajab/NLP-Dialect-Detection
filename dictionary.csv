@@ -1,0 +1,210 @@
+﻿dialect,msa,word
+egyptian,الآن,دلوقتي
+egyptian,أمس,امبارح
+egyptian,أريد,عايز
+egyptian,ليس,مش
+egyptian,لماذا,ليه
+egyptian,اليوم,النهارده
+egyptian,غداً,بكره
+egyptian,تماماً,خالص
+egyptian,ذاهب,رايح
+egyptian,قادم,جاي
+egyptian,متفرغ,فاضي
+egyptian,يفعل,يعمل
+egyptian,جداً,اوي
+egyptian,ذكي,شاطر
+egyptian,تفعل,تعمل
+egyptian,هذا,ده
+egyptian,يحب,بيحب
+egyptian,هكذا,كده
+egyptian,شيء,حاجة
+egyptian,خاص بـ,بتاع
+egyptian,هو,هوه
+egyptian,أنتِ,انتي
+egyptian,أنت,انت
+egyptian,لا يوجد,مفيش
+egyptian,ما زال,لسه
+egyptian,أيضاً,كمان
+egyptian,جيد,تمام
+egyptian,جميل,حلو
+egyptian,سيء,وحش
+egyptian,باهظ,غالي
+egyptian,زهيد,رخيص
+egyptian,هاتف,موبايل
+egyptian,سيارة,عربية
+egyptian,غرفة,اوضة
+egyptian,منزل,شقة
+egyptian,مريض,عيان
+egyptian,طبيب,دكتور
+egyptian,مدرسة,مدرسة
+egyptian,جامعة,جامعة
+egyptian,كرة,كورة
+egyptian,مباراة,ماتش
+egyptian,عملة مصرية,جنيه
+egyptian,نقل عام,مواصلات
+egyptian,سيارة أجرة,تاكسي
+egyptian,مستشفى,مستشفى
+egyptian,طعام,اكل
+egyptian,شراب,شرب
+egyptian,قهوة,قهوة
+egyptian,شاي,شاي
+egyptian,سوق,سوق
+egyptian,شارع,شارع
+egyptian,الفتى,الولد
+egyptian,منزل,بيت
+levantine,الآن,هلق
+levantine,الآن,هلأ
+levantine,الآن,هلئ
+levantine,ماذا,شو
+levantine,لماذا,ليش
+levantine,جداً,كتير
+levantine,أريد,بدي
+levantine,منتظر,ناطر
+levantine,جيد,منيح
+levantine,هنا,هوني
+levantine,مبكراً,بكير
+levantine,حدث,صار
+levantine,ليس,مو
+levantine,هذا,هدا
+levantine,تلك,هديك
+levantine,هناك,هونيك
+levantine,لا بأس,معليش
+levantine,غاضب,زعلان
+levantine,سعيد,مبسوط
+levantine,جائع,جوعان
+levantine,ظمآن,عطشان
+levantine,بارد,بردان
+levantine,حار,حران
+levantine,مريض,مريض
+levantine,طبيب,دكتور
+levantine,سائق,شوفير
+levantine,حافلة,باص
+levantine,سيارة أجرة,تاكسي
+levantine,منزل,بيت
+levantine,غرفة,غرفة
+levantine,جامعة,جامعة
+levantine,مدرسة,مدرسة
+levantine,كرة,كورة
+levantine,مباراة,ماتش
+levantine,سوق,سوق
+levantine,شارع,شارع
+levantine,قهوة,قهوة
+levantine,شاي,شاي
+levantine,طعام,اكل
+levantine,شراب,شرب
+levantine,باهظ,غالي
+levantine,زهيد,رخيص
+levantine,هاتف,موبايل
+levantine,سيارة,سيارة
+levantine,مستشفى,مستشفى
+levantine,نقل عام,مواصلات
+levantine,هذا الشيء,هالشي
+levantine,سوف,عم
+levantine,هذا الموضوع,هالموضوع
+gulf,كثير,وايد
+gulf,كيف حالك,شلونك
+gulf,الآن,الحين
+gulf,هذه,هذي
+gulf,لا بأس,ما عليه
+gulf,غاضب,زعلان
+gulf,باهظ,غالي
+gulf,سهلة,بسيطة
+gulf,القصة,السالفة
+gulf,هذه القصة,هالسالفة
+gulf,هذا الموضوع,هالموضوع
+gulf,هذا الشيء,هالشي
+gulf,هذا الوقت,هالوقت
+gulf,هذا المكان,هالمكان
+gulf,هذا الطفل,هالولد
+gulf,مريض,مريض
+gulf,طبيب,دكتور
+gulf,سيارة أجرة,تاكسي
+gulf,حافلة,باص
+gulf,منزل,بيت
+gulf,غرفة,غرفة
+gulf,جامعة,جامعة
+gulf,مدرسة,مدرسة
+gulf,كرة,كورة
+gulf,مباراة,ماتش
+gulf,سوق,سوق
+gulf,شارع,شارع
+gulf,قهوة,قهوة
+gulf,شاي,شاي
+gulf,طعام,اكل
+gulf,شراب,شرب
+gulf,هاتف,موبايل
+gulf,سيارة,سيارة
+gulf,مستشفى,مستشفى
+gulf,نقل عام,مواصلات
+gulf,حار,حران
+gulf,بارد,بردان
+gulf,جائع,جوعان
+gulf,ظمآن,عطشان
+egyptian,العمل,الشغل
+egyptian,مبكر,بدري
+egyptian,لم ينتهِ بعد,لسه
+egyptian,أمس,امبارح
+egyptian,جائع,جعان
+egyptian,متفرغ,فاضي
+egyptian,غير قادر,مش قادر
+egyptian,أسمعك جيدًا,سامعك كويس
+egyptian,غدًا,بكرة
+egyptian,لم ينتهِ,ما خلصش
+egyptian,بعد قليل,بعد شوية
+egyptian,الطقس حار,الجو حر
+levantine,ماذا,شو
+levantine,تريد,بدك
+levantine,مبكر,بكير
+levantine,قليل,شوية
+levantine,منتظر,ناطر
+levantine,لا يريد,ما بدو
+levantine,ليس لدي,ما عندي
+levantine,ذهبت,راحت
+levantine,خرجت,نزلت
+gulf,بحاجة,محتاج
+gulf,أذهب,بروح
+gulf,كرة القدم,الكورة
+gulf,غدًا,بكرة
+gulf,لن أفعل,ما راح أسوي
+egyptian,السيارة,العربية
+levantine,منتظر,ناطر
+levantine,متسخ,وسخ
+egyptian,متسخ,وسخ
+egyptian,الطعام,الأكل
+levantine,الطعام,الأكل
+levantine,جيدة,طيبة
+levantine,مثل,متل
+gulf,الثمن,السعر
+egyptian,متوقفة,واقفة
+egyptian,جدًا,أوي
+egyptian,كرة القدم,الكورة
+egyptian,لم أنتهِ,مخلصتش
+egyptian,الفتى,الواد
+egyptian,أرغب,نفسي
+egyptian,هذه الشركة,الشركة دي
+egyptian,أحضر,أجيب
+egyptian,شيئًا,حاجة
+egyptian,الطريق,الشارع
+egyptian,مرتفعة الثمن,غالية
+egyptian,مرتفع الثمن,غالي
+egyptian,منخفض الثمن,رخيص
+egyptian,مرهق,تعبان
+egyptian,متفرغ,فاضي
+levantine,الطقس,الجو
+levantine,جميل,حلو
+levantine,لذيذ,زاكي
+levantine,مكتظ,مزدحم
+gulf,لا بأس,ما عليه
+gulf,دعنا,خلنا
+egyptian,سآتي,هعدي
+egyptian,أين,فين
+egyptian,ماذا تقصد,قصدك ايه
+egyptian,ماذا,ايه
+egyptian,لذيذة,زاكية
+egyptian,كنت أفكر في,بفكر 
+egyptian,الذهاب إلى السينما,أروح السينما
+egyptian,بجانبنا,جنبنا
+gulf,لا بأس,ما عليه
+gulf,دعه يبتعد عن الشر,خله شر
+gulf,أغراض,حاجات
+gulf,لكن,بس
